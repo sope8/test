@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Take Me Home is coming to your place!</h1>
+
+<p>
+
+Thank you for choosing us! In a few second you will recive a voucher code on your e-mail account. You can use it for having a discount on your future purchases. 
+</p>
+
+<label for="file">Voucher development:</label>
+<progress id="file" value="32" max="100"> 32% </progress>
+
+<p>
+
+Do you want to subscribe to our newsletter? You can be informed about the news and offers of Rimi's world!
+
+<button type="button">Subscribe Me!</button>
+
+</p>
+
+<p>
+<marquee width="60%" direction="up" height="100px">
+The seas and forests are grateful!
+</marquee>
+ 
+<img src="sea.jpg" alt="underwater sea">
+
+<img src="forest.jpg" alt="trees">
+ 
+</p>
+
+
+<footer>
+  <p>Information and support:</p>
+<p>+372 605 6333 </p>
+  <p><a href="mailto:klienditugi@rimibaltic.com">klienditugi@rimibaltic.com</a></p>
+</footer>
+
+</body>
+</html>
